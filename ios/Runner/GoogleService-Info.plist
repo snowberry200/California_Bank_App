@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>968826488520-jd3h5d8fsrdd92trm0rh3eqcoulfi6bt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.968826488520-jd3h5d8fsrdd92trm0rh3eqcoulfi6bt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBQnJN7B3Qa_10n0v6EB8GevtZRW20YMk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>968826488520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.califonia</string>
+	<key>PROJECT_ID</key>
+	<string>california-faff4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>california-faff4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:968826488520:ios:806884220dfc36538587fd</string>
+</dict>
+</plist>

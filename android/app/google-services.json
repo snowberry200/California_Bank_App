@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "968826488520",
+    "project_id": "california-faff4",
+    "storage_bucket": "california-faff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968826488520:android:d81fd5fef48b5a628587fd",
+        "android_client_info": {
+          "package_name": "com.enkasa.cali_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968826488520-pi4ggptsj6uqaa4vkdn76guvgerlfltv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JSu9lOO0tQN9NC5rFBltcuNiywZNIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968826488520-pi4ggptsj6uqaa4vkdn76guvgerlfltv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968826488520-jd3h5d8fsrdd92trm0rh3eqcoulfi6bt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.califonia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
