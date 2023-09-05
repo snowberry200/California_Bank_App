@@ -1,3 +1,7 @@
+
+THIS IS STRICTLY FOR LEARNING PURPOSE ONLY
+
+
 # califonia
 
 A new Flutter project.
